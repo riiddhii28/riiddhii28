@@ -20,8 +20,6 @@
 
 ---
 
-![Coding GIF](https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif)
-
 <h3 align="center">Languages and Tools</h3>
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer">
@@ -43,10 +41,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
   </a>
 </p>
-
----
-
-![Working Girl GIF](https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif)
 
 ---
 
