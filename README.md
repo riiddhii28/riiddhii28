@@ -1,23 +1,23 @@
 ![MasterHead](https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Riddhi Patel</h1>
-<h3 align="center">Engineering the Web | Dreamer, Creator, and Aspiring Full-Stack Developer</h3>
+<h3 align="center">Turning Ideas into Code | Python & Web Development Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riiddhii28&label=Profile%20views&color=0e75b6&style=flat" alt="riiddhii28" /> </p>
 
-- 🔭 I’m currently working on [YogaBliss: An e-learning platform for yoga enthusiasts.](https://github.com/riiddhii28/YogaBliss)
+- 🔭 I’m currently working on [YogaBliss – A smart e-learning platform for yoga enthusiasts.](https://github.com/riiddhii28/yoga)
 
-- 🌱 I’m currently learning **React, MERN stack, and machine learning basics**
+- 🌱 I’m currently learning **Python (Advanced), Django, Flask, SQL, Machine Learning, and Backend Development.**
 
-- 👨‍💻 All of my projects are available at [https://riiddhii.vercel.app](https://riiddhii.vercel.app)
+- 👨‍💻 All of my projects are available at [riiddhii.vercel.app](https://riiddhii.vercel.app)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, Python, and building beautiful UIs**
+- 💬 Ask me about **Python, Django, Flask, Web Development**
 
-- 📫 How to reach me **https://linkedin.com/in/riddhi-patel28**
+- 📫 How to reach me **linkedin.com/in/riddhi-patel28**
 
-- ⚡ Fun fact **When I'm not coding, I'm weaving stories that take you on unforgettable journeys!**
+- ⚡ Fun fact **When I'm not coding, you'll find me lost in books, exploring new worlds one page at a time!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
