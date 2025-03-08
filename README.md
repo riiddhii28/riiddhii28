@@ -1,4 +1,4 @@
-![MasterHead](https://webcloudtechnology.in/wp-content/uploads/2022/07/Web-Designing-Banner.gif)
+![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Riddhi Patel</h1>
 <h3 align="center">Turning Ideas into Code | Python & Web Development Enthusiast</h3>
