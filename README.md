@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Python, Django, Flask, Web Development**
 
-- 📫 How to reach me **linkedin.com/in/riddhi-patel28**
+- 📫 Reach me at [linkedin.com/in/riddhi-patel28](https://linkedin.com/in/riddhi-patel28)
 
 - ⚡ Fun fact **When I'm not coding, you'll find me lost in books, exploring new worlds one page at a time!**
 
