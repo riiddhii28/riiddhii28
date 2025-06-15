@@ -8,7 +8,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=riiddhii28&label=Profile%20views&color=0e75b6&style=flat" alt="riiddhii28" /> </p> -->
 
 - 🔭 I’m currently working on **MatchMasala – A fun relationship compatibility app with Gen Z sass!**  
-  [Check it out here](https://github.com/riiddhii28/MatchMasala)
+  [Check it out here](https://matchmasala.onrender.com/)
 
 - 🌱 I’m currently learning **Advanced Python, Django, Flask, SQL, APIs, Git, and Machine Learning.**
 
