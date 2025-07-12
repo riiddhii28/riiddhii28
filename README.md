@@ -7,18 +7,17 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=riiddhii28&label=Profile%20views&color=0e75b6&style=flat" alt="riiddhii28" /> </p> -->
 
-- 🔭 I’m currently working on **MatchMasala – A fun relationship compatibility app with Gen Z sass!**  
-  [Check it out here](https://matchmasala.onrender.com/)
+- 🔭 I’m currently building real-world projects with Flask, Django, and Machine Learning.
 
-- 🌱 I’m currently learning **Advanced Python, Django, Flask, SQL, APIs, Git, and Machine Learning.**
+- 🌱 I’m currently learning **Advanced Python, APIs, SQL, Git, and practical ML integration..**
 
-- 👨‍💻 Explore my projects at [riiddhii.vercel.app](https://riiddhii.vercel.app)
+- 👨‍💻 Explore my work at [riiddhii.vercel.app](https://riiddhii.vercel.app)
 
-- 💬 Ask me about **Python, Django, Flask, Web Dev, or anything nerdy!**
+- 💬 Ask me about **Python, Web Dev, Flask, or ML-powered apps!**
 
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/riddhi-patel28)
 
-- ⚡ Fun fact: *When I’m not coding, I’m probably reading, vibing to retro Bollywood, or building a side hustle app just for fun!*
+- ⚡ Fun fact: *I love mixing retro Bollywood vibes with side-project energy!*
 
 ---
 
