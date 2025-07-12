@@ -7,9 +7,9 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=riiddhii28&label=Profile%20views&color=0e75b6&style=flat" alt="riiddhii28" /> </p> -->
 
-- 🔭 I’m currently building real-world projects with Flask, Django, and Machine Learning.
+- 🔭 I’m currently building real-world projects with **Flask, Django, and Machine Learning.**
 
-- 🌱 I’m currently learning **Advanced Python, APIs, SQL, Git, and practical ML integration..**
+- 🌱 I’m currently learning **Advanced Python, APIs, SQL, Git, and practical ML integration.**
 
 - 👨‍💻 Explore my work at [riiddhii.vercel.app](https://riiddhii.vercel.app)
 
