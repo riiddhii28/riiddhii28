@@ -71,4 +71,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riiddhii28&show_icons=true&locale=en" alt="riiddhii28" /></p>
 
+## 📊 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=riiddhii28&theme=react-dark&hide_border=true)
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riiddhii28&" alt="riiddhii28" /></p>
