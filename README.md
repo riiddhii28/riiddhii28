@@ -29,44 +29,58 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages & Tools</h3>
 
-<p align="left">
+<table>
+  <tr>
+    <td><b>Programming</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="30" height="30" alt="Ruby"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="HTML"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="CSS3"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/>
+    </td>
+  </tr>
 
-  <b>Programming Languages:</b><br>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="35" height="35" alt="Ruby"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="35" height="35" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="35" height="35" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="35" height="35" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35" alt="Linux"/>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" height="30" alt="Django"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30" height="30" alt="Flask"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="30" height="30" alt="REST APIs"/>
+    </td>
+  </tr>
 
-  <b>Backend Fundamentals:</b><br>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="35" height="35" alt="Django"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="35" height="35" alt="Flask"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="35" height="35" alt="REST APIs"/>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" alt="MySQL"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" alt="MongoDB"/>
+    </td>
+  </tr>
 
-  <b>Databases:</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="35" height="35" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="35" height="35" alt="MongoDB"/>
+  <tr>
+    <td><b>DevOps</b></td>
+    <td>
+      <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="30" height="30" alt="Docker"/>
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="30" height="30" alt="Kubernetes"/>
+      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="30" height="30" alt="Jenkins"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="30" height="30" alt="GitHub Actions"/>
+    </td>
+  </tr>
 
-
-  <b>DevOps & Deployment:</b><br>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="35" height="35" alt="Docker"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="35" height="35" alt="Kubernetes"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="35" height="35" alt="Jenkins"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubactions.svg" width="35" height="35" alt="GitHub Actions"/>
-
-
-  <b>Version Control:</b><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="35" height="35" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="35" height="35" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bitbucket.svg" width="35" height="35" alt="BitBucket"/>
-
-</p>
-
+  <tr>
+    <td><b>Version Control</b></td>
+    <td>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="30" height="30" alt="GitHub"/>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/bitbucket.svg" width="30" height="30" alt="BitBucket"/>
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
