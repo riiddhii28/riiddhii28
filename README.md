@@ -7,17 +7,20 @@
 
 <img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3eGhhZWR2dGVpa3o2bjN3amdycTQ5c24xNmVoNnZ0eGV2ODh0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
+<div style="font-size: 16.5px; line-height: 1.6">
 
-- - 🔧 Building scalable backend services with **Django, Flask, Docker, and REST APIs**
-- 🚀 Focused on **APIs, microservices, and distributed backend systems**
-- 🌐 Portfolio: [riiddhii.vercel.app](https://riiddhii.vercel.app)
-- 🧠 Ask me about **Python, backend design, APIs, and DevOps**
-- 🤝 Connect on [LinkedIn](https://linkedin.com/in/riddhi-patel28)
+🔧 Building scalable backend services using <b>Django, Flask, Docker, and REST APIs</b><br>
+🚀 Strong focus on <b>API design, microservices, and distributed backend systems</b><br>
+⚙️ Experience working with backend architecture, data modeling, and service integrations<br>
+🌐 Portfolio: <a href="https://riiddhii.vercel.app">riiddhii.vercel.app</a><br>
+🧠 Ask me about <b>Python, backend system design, APIs, and DevOps workflows</b><br>
+🤝 Connect on <a href="https://linkedin.com/in/riddhi-patel28">LinkedIn</a>
 
+</div>
 
 
 <br><br>
-<h3 align="center">🏅 Learning & Community</h3>
+<h3 align="left">🏅 Learning & Community</h3>
 
 <p align="center">
   <a href="https://holopin.io/@riiddhii28">
@@ -95,6 +98,14 @@
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riiddhii28)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riiddhii28)
+<table align="left">
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riiddhii28" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riiddhii28" />
+    </td>
+  </tr>
+</table>
 
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riiddhii28)
