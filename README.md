@@ -19,6 +19,13 @@
 
 
 <br><br>
+<p align="center">
+  <a href="https://holopin.io/@riiddhii28">
+    <img src="https://holopin.me/riiddhii28" alt="Holopin badges" />
+  </a>
+</p>
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p>
@@ -84,10 +91,10 @@
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riiddhii28&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+## 📊 GitHub Overview
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=riiddhii28&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riiddhii28)
 
-<br><br>
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riiddhii28)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riiddhii28" alt="GitHub Streak" /></p>
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=riiddhii28)
