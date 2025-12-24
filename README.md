@@ -87,9 +87,11 @@
 
 ## 📊 GitHub Overview
 
-![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riiddhii28)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=riiddhii28" />
+</p>
 
-<table align="left">
+<table>
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=riiddhii28" />
@@ -100,14 +102,17 @@
   </tr>
 </table>
 
+<br clear="both" />
 
-<br><br>
 <h3 align="left">🏅 Learning & Community</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://holopin.io/@riiddhii28">
     <img src="https://holopin.me/riiddhii28" alt="Holopin badges" />
   </a>
 </p>
+
+
+
 
 
