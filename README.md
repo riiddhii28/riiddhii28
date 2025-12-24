@@ -19,15 +19,6 @@
 </div>
 
 
-<br><br>
-<h3 align="left">🏅 Learning & Community</h3>
-
-<p align="center">
-  <a href="https://holopin.io/@riiddhii28">
-    <img src="https://holopin.me/riiddhii28" alt="Holopin badges" />
-  </a>
-</p>
-
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -108,4 +99,15 @@
     </td>
   </tr>
 </table>
+
+
+<br><br>
+<h3 align="left">🏅 Learning & Community</h3>
+
+<p align="center">
+  <a href="https://holopin.io/@riiddhii28">
+    <img src="https://holopin.me/riiddhii28" alt="Holopin badges" />
+  </a>
+</p>
+
 
