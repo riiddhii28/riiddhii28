@@ -7,18 +7,18 @@
 
 <img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3eGhhZWR2dGVpa3o2bjN3amdycTQ5c24xNmVoNnZ0eGV2ODh0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
-- 🔧 Currently building scalable backend apps with **Django, Flask, Docker, and REST APIs**  
-- 🚀 Designing robust backend systems with a focus on **APIs, microservices, and distributed architectures**  
-- 🧠 I’m driven by the challenge of simplifying chaos into clean, logical architecture.
-- 🌐 Crafting backend systems that are both elegant and future-ready is what I do best. 
-- 🌱 Always learning — currently diving into event-driven and cloud-native development  
-- 🌐 Portfolio: [riiddhii.vercel.app](https://riiddhii.vercel.app)  
-- 🧠 Ask me about **Python, backend design, API development, and DevOps practices**  
-- 🤝 Let’s connect on [LinkedIn](https://linkedin.com/in/riddhi-patel28)  
-- 🪄 My best ideas happen when the world is quiet and the code editor is loud. ✨  
+
+- - 🔧 Building scalable backend services with **Django, Flask, Docker, and REST APIs**
+- 🚀 Focused on **APIs, microservices, and distributed backend systems**
+- 🌐 Portfolio: [riiddhii.vercel.app](https://riiddhii.vercel.app)
+- 🧠 Ask me about **Python, backend design, APIs, and DevOps**
+- 🤝 Connect on [LinkedIn](https://linkedin.com/in/riddhi-patel28)
+
 
 
 <br><br>
+<h3 align="center">🏅 Learning & Community</h3>
+
 <p align="center">
   <a href="https://holopin.io/@riiddhii28">
     <img src="https://holopin.me/riiddhii28" alt="Holopin badges" />
