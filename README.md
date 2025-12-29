@@ -8,12 +8,14 @@
 <img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3eGhhZWR2dGVpa3o2bjN3amdycTQ5c24xNmVoNnZ0eGV2ODh0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 <div style="font-size: 16.5px; line-height: 1.6">
-🔧 Backend development focused on clean, reliable server-side logic<br>
-🚀 Hands-on experience building and consuming <b>RESTful APIs</b><br>
-⚙️ Comfortable working with <b>Python-based backends</b> and relational & NoSQL databases<br>
+🔧 Backend systems built with <b>Python and Ruby</b>, using <b>PostgreSQL and MongoDB</b> for data storage<br>
+🚀 APIs and background communication handled with <b>REST</b> and <b>Kafka</b><br>
 🛠️ Familiar with <b>Docker, Linux environments, and version-controlled workflows</b><br>
 🌐 Portfolio: <a href="https://riiddhii.vercel.app">riiddhii.vercel.app</a><br>
+🔧 Backend development focused on clean, reliable server-side logic<br>
 🤝 Connect on <a href="https://linkedin.com/in/riddhi-patel28">LinkedIn</a>
+
+
 </div>
 
 
