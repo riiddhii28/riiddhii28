@@ -117,13 +117,8 @@
 - Optimized OCR pipelines by 87% using AWS Textract, PyMuPDF, and pdfplumber.
 - Built AI-powered document analysis workflows using OpenAI, Gemini, Pinecone, and LangChain.
 
-## 🚀 Featured Projects
 
-### YogaBliss – Mobile App
-Flutter + TensorFlow Lite application for real-time yoga pose detection with optimized on-device inference.
-
-### YogaBliss – Web Platform
-MERN-stack application featuring secure authentication, personalized wellness tracking, and activity dashboards.
+<br><br>
 
 ## 📊 GitHub Overview
 
