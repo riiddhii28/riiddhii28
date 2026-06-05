@@ -1,20 +1,26 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Riddhi Patel</h1>
-<h3 align="center">Software Engineer | Backend Developer | Python & Web Enthusiast</h3>
-
+<h3 align="center">Backend Engineer | Software Developer | Distributed Systems, Automation & AI Applications</h3>
 <br><br>
 
 <img align="right" alt="coding" width="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjc3eGhhZWR2dGVpa3o2bjN3amdycTQ5c24xNmVoNnZ0eGV2ODh0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif">
 
 <div style="font-size: 16.5px; line-height: 1.6">
-🔧 Backend systems built with <b>Python and Ruby</b>, using <b>PostgreSQL and MongoDB</b> for data storage<br>
-🚀 APIs and background communication handled with <b>REST</b> and <b>Kafka</b><br>
-🛠️ Familiar with <b>Docker, Linux environments, and version-controlled workflows</b><br>
-🌐 Portfolio: <a href="https://riiddhii.vercel.app">riiddhii.vercel.app</a><br>
-🔧 Backend development focused on clean, reliable server-side logic<br>
-🤝 Connect on <a href="https://linkedin.com/in/riddhi-patel28">LinkedIn</a>
 
+🚀 Backend Engineer with experience building developer tools, automation frameworks, and AI-powered applications through internships at <b>BrowserStack</b> and <b>LegalGini</b><br><br>
+
+🔧 Worked across <b>Python, Ruby, Java, C#, Node.js, Django, Redis, Celery, PostgreSQL, MongoDB, and Playwright</b><br><br>
+
+⚡ Contributed to SDK automation, observability, telemetry systems, BigQuery reporting, and cross-platform developer tooling<br><br>
+
+🤖 Built AI-powered document analysis workflows using <b>OpenAI, Gemini, Pinecone, LangChain, and AWS Textract</b><br><br>
+
+🐳 Experienced with <b>Docker, Kubernetes, Jenkins, CI/CD pipelines, Linux environments, and modern backend development practices</b><br><br>
+
+🌐 Portfolio: <a href="https://riiddhii.vercel.app">riiddhii.vercel.app</a><br><br>
+
+💼 Backend Dev (SDK Team) at <b>BrowserStack</b><br>
 
 </div>
 
@@ -40,6 +46,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="30" height="30" alt="Ruby"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" height="30" alt="JavaScript"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" height="30" alt="Java"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30" height="30" alt="C#"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="30" height="30" alt="HTML"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" height="30" alt="CSS3"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" height="30" alt="Linux"/>
@@ -50,7 +58,7 @@
     <td><b>Backend</b></td>
     <td>
       <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="30" height="30" alt="Django"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="30" height="30" alt="Flask"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="30" height="30" alt="Playwright"/>
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postman.svg" width="30" height="30" alt="REST APIs"/>
     </td>
   </tr>
@@ -60,8 +68,16 @@
     <td>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" alt="MySQL"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" alt="MongoDB"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="30" height="30" alt="PostgreSQL"/>
     </td>
   </tr>
+
+  <tr>
+  <td><b>AI & Data</b></td>
+  <td>
+    OpenAI • Gemini • LangChain • Pinecone • AWS Textract • BigQuery
+  </td>
+</tr>
 
   <tr>
     <td><b>DevOps</b></td>
@@ -84,6 +100,30 @@
 </table>
 
 <br><br>
+
+## 💼 Experience
+
+### Backend Dev (SDK Team) – BrowserStack
+
+- Contributed to SDK development across Java, Python, Node.js, Ruby, and C# ecosystems.
+- Built automation frameworks using Reqnroll, MSTest, and Playwright.
+- Worked on telemetry reporting, observability workflows, and BigQuery-based adoption tracking.
+- Performed regression testing, debugging, and issue resolution across SDK platforms.
+
+### Software Developer Intern – LegalGini
+
+- Developed backend features on a Django-based platform.
+- Integrated Redis and Celery for scalable asynchronous processing.
+- Optimized OCR pipelines by 87% using AWS Textract, PyMuPDF, and pdfplumber.
+- Built AI-powered document analysis workflows using OpenAI, Gemini, Pinecone, and LangChain.
+
+## 🚀 Featured Projects
+
+### YogaBliss – Mobile App
+Flutter + TensorFlow Lite application for real-time yoga pose detection with optimized on-device inference.
+
+### YogaBliss – Web Platform
+MERN-stack application featuring secure authentication, personalized wellness tracking, and activity dashboards.
 
 ## 📊 GitHub Overview
 
